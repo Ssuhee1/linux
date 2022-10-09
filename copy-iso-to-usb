@@ -1,0 +1,1 @@
+sudo dd if="$1" of="$2" bs=1024k status=progress
